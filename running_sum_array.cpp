@@ -21,5 +21,6 @@ int main(){
   }
   // cout << endl;
   getRunningSumArray(n,array);
+  // Time Complexity - O(N)
   return 0;
 }
